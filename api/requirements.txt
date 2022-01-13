@@ -14,7 +14,7 @@ mccabe==0.6.1
 networkx==2.4
 numpy==1.18.1
 pandas==1.0.3
-Pillow==7.1.2
+Pillow==9.0.0
 pylint==2.4.4
 pyparsing==2.4.6
 PyPDF2==1.26.0
